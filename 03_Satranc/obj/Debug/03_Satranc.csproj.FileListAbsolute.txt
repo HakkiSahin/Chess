@@ -1,0 +1,9 @@
+C:\Users\Hakki Sahin\Desktop\20190103_Etut_OOP\03_Satranc\bin\Debug\03_Satranc.dll
+C:\Users\Hakki Sahin\Desktop\20190103_Etut_OOP\03_Satranc\bin\Debug\03_Satranc.pdb
+C:\Users\Hakki Sahin\Desktop\20190103_Etut_OOP\03_Satranc\bin\Debug\03_SatrancTas.dll
+C:\Users\Hakki Sahin\Desktop\20190103_Etut_OOP\03_Satranc\bin\Debug\03_SatrancTas.pdb
+C:\Users\Hakki Sahin\Desktop\20190103_Etut_OOP\03_Satranc\obj\Debug\03_Satranc.csprojAssemblyReference.cache
+C:\Users\Hakki Sahin\Desktop\20190103_Etut_OOP\03_Satranc\obj\Debug\03_Satranc.csproj.CoreCompileInputs.cache
+C:\Users\Hakki Sahin\Desktop\20190103_Etut_OOP\03_Satranc\obj\Debug\03_Satranc.csproj.CopyComplete
+C:\Users\Hakki Sahin\Desktop\20190103_Etut_OOP\03_Satranc\obj\Debug\03_Satranc.dll
+C:\Users\Hakki Sahin\Desktop\20190103_Etut_OOP\03_Satranc\obj\Debug\03_Satranc.pdb

@@ -1,0 +1,15 @@
+C:\Users\Hakki Sahin\Desktop\20190103_Etut_OOP\03_SatrancOyunu\bin\Debug\03_SatrancOyunu.exe.config
+C:\Users\Hakki Sahin\Desktop\20190103_Etut_OOP\03_SatrancOyunu\bin\Debug\03_SatrancOyunu.exe
+C:\Users\Hakki Sahin\Desktop\20190103_Etut_OOP\03_SatrancOyunu\bin\Debug\03_SatrancOyunu.pdb
+C:\Users\Hakki Sahin\Desktop\20190103_Etut_OOP\03_SatrancOyunu\bin\Debug\03_Satranc.dll
+C:\Users\Hakki Sahin\Desktop\20190103_Etut_OOP\03_SatrancOyunu\bin\Debug\03_SatrancTas.dll
+C:\Users\Hakki Sahin\Desktop\20190103_Etut_OOP\03_SatrancOyunu\bin\Debug\03_Satranc.pdb
+C:\Users\Hakki Sahin\Desktop\20190103_Etut_OOP\03_SatrancOyunu\bin\Debug\03_SatrancTas.pdb
+C:\Users\Hakki Sahin\Desktop\20190103_Etut_OOP\03_SatrancOyunu\obj\Debug\03_SatrancOyunu.csprojAssemblyReference.cache
+C:\Users\Hakki Sahin\Desktop\20190103_Etut_OOP\03_SatrancOyunu\obj\Debug\_03_SatrancOyunu.Form1.resources
+C:\Users\Hakki Sahin\Desktop\20190103_Etut_OOP\03_SatrancOyunu\obj\Debug\_03_SatrancOyunu.Properties.Resources.resources
+C:\Users\Hakki Sahin\Desktop\20190103_Etut_OOP\03_SatrancOyunu\obj\Debug\03_SatrancOyunu.csproj.GenerateResource.cache
+C:\Users\Hakki Sahin\Desktop\20190103_Etut_OOP\03_SatrancOyunu\obj\Debug\03_SatrancOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Hakki Sahin\Desktop\20190103_Etut_OOP\03_SatrancOyunu\obj\Debug\03_SatrancOyunu.csproj.CopyComplete
+C:\Users\Hakki Sahin\Desktop\20190103_Etut_OOP\03_SatrancOyunu\obj\Debug\03_SatrancOyunu.exe
+C:\Users\Hakki Sahin\Desktop\20190103_Etut_OOP\03_SatrancOyunu\obj\Debug\03_SatrancOyunu.pdb

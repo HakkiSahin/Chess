@@ -1,0 +1,6 @@
+C:\Users\Hakki Sahin\Desktop\20190103_Etut_OOP\03_SatrancTas\bin\Debug\03_SatrancTas.dll
+C:\Users\Hakki Sahin\Desktop\20190103_Etut_OOP\03_SatrancTas\bin\Debug\03_SatrancTas.pdb
+C:\Users\Hakki Sahin\Desktop\20190103_Etut_OOP\03_SatrancTas\obj\Debug\03_SatrancTas.csprojAssemblyReference.cache
+C:\Users\Hakki Sahin\Desktop\20190103_Etut_OOP\03_SatrancTas\obj\Debug\03_SatrancTas.csproj.CoreCompileInputs.cache
+C:\Users\Hakki Sahin\Desktop\20190103_Etut_OOP\03_SatrancTas\obj\Debug\03_SatrancTas.dll
+C:\Users\Hakki Sahin\Desktop\20190103_Etut_OOP\03_SatrancTas\obj\Debug\03_SatrancTas.pdb
